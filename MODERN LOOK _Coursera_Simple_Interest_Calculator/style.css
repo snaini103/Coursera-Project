@@ -1,0 +1,51 @@
+body {
+	background-color: white;
+	font-family: sans-serif;
+	font-size: 15px;
+	color: black;
+}
+
+h1 {
+	color: grey;
+	font-family:sans-serif;
+	font-weight: 700;
+	font-size: 30px;
+}
+
+
+p {
+	
+	font-family: sans-serif;
+	font-size: 15px;
+	margin-top: 1px;
+	margin-bottom: 1px;
+
+	
+}
+
+input {
+	
+	margin-bottom: 9px;
+	margin-top: 9px;
+	
+}
+
+.showvalue {
+	
+	font-family: sans-serif;
+	font-size: 15px;
+	display:block;
+	margin-bottom: 9px;
+	margin-top: 9px;
+	color: black;
+	
+}
+
+
+
+
+
+
+
+
+
